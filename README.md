@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+## ScreenShots of 2 Screens add user and and posts which related to user
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1700370648](https://github.com/samer-saied/sqlite_flutter/assets/46113474/f082759b-405e-4193-bb37-bc832325261b)
+![Screenshot_1700370655](https://github.com/samer-saied/sqlite_flutter/assets/46113474/b18874e1-c914-4709-8285-32941ba44af1)
